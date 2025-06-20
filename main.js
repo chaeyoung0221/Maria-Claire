@@ -1,4 +1,4 @@
-console.log("main.js 로드 완료");
+  console.log("main.js 로드 완료");
 
 const overlay = document.querySelector(".overlay");
 const closeBtn = document.querySelector("#close-btn");
@@ -29,7 +29,7 @@ const itemsData = [
   itemLink: "https://www.samsung.com/sec/",
   itemCopy:
     "무광인덕션<br>프리미엄에<br>트렌드를 더하다",
-  itemImg: "images/Stel uw persoonlijke stijlboek samen.jpg",
+  itemImg: "Stel uw persoonlijke stijlboek samen.jpg",
 },
   {
     itemName: "Augustinus Bader",
