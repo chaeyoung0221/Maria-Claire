@@ -29,7 +29,7 @@ const itemsData = [
   itemLink: "https://www.samsung.com/sec/",
   itemCopy:
     "무광인덕션<br>프리미엄에<br>트렌드를 더하다",
-  itemImg: "Stel uw persoonlijke stijlboek samen.jpg",
+  itemImg: "S.jpg",
 },
   {
     itemName: "Augustinus Bader",
